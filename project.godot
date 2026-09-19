@@ -10,7 +10,8 @@ config_version=5
 
 [application]
 
-config/name="Nouveau projet de jeu"
+config/name="ProjectL"
+run/main_scene="uid://2tjchaggcne0"
 config/features=PackedStringArray("4.7", "Forward Plus")
 config/icon="res://icon.svg"
 
