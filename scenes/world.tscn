@@ -9,12 +9,12 @@ size = Vector2(794, 20)
 [node name="World" type="Node2D" unique_id=1254523738]
 
 [node name="StaticBody2D" type="StaticBody2D" parent="." unique_id=2136537303]
-position = Vector2(400, 400)
+position = Vector2(41, 195)
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D" unique_id=987393919]
 position = Vector2(252, 109)
 shape = SubResource("RectangleShape2D_42ni4")
 
 [node name="Player" parent="." unique_id=1261470814 instance=ExtResource("1_nnsk1")]
-position = Vector2(400, 400)
+position = Vector2(41, 195)
 script = ExtResource("2_rwgxs")
