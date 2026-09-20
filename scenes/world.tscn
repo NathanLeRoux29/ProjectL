@@ -8,13 +8,27 @@ size = Vector2(794, 20)
 
 [node name="World" type="Node2D" unique_id=1254523738]
 
+[node name="StaticBody2D3" type="StaticBody2D" parent="." unique_id=1702329454]
+position = Vector2(-38, 237)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D3" unique_id=208042191]
+position = Vector2(-3, 4)
+shape = SubResource("RectangleShape2D_42ni4")
+
+[node name="StaticBody2D2" type="StaticBody2D" parent="." unique_id=1626235678]
+position = Vector2(11, 340)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D2" unique_id=1701289100]
+position = Vector2(-3, 4)
+shape = SubResource("RectangleShape2D_42ni4")
+
 [node name="StaticBody2D" type="StaticBody2D" parent="." unique_id=2136537303]
-position = Vector2(41, 195)
+position = Vector2(802, 311)
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D" unique_id=987393919]
-position = Vector2(252, 109)
+position = Vector2(3, -2)
 shape = SubResource("RectangleShape2D_42ni4")
 
 [node name="Player" parent="." unique_id=1261470814 instance=ExtResource("1_nnsk1")]
-position = Vector2(41, 195)
+position = Vector2(322, 180)
 script = ExtResource("2_rwgxs")
