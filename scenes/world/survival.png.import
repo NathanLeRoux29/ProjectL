@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bou3ies6fifyg"
-path="res://.godot/imported/B_witch_run.png-8c3119cf45fca3808602058ae74b9705.ctex"
+uid="uid://dm2m7fk5nyd77"
+path="res://.godot/imported/survival.png-1e0471d41e19efc47d386828764815dd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://scenes/player/Blue_witch/B_witch_run.png"
-dest_files=["res://.godot/imported/B_witch_run.png-8c3119cf45fca3808602058ae74b9705.ctex"]
+source_file="res://scenes/world/survival.png"
+dest_files=["res://.godot/imported/survival.png-1e0471d41e19efc47d386828764815dd.ctex"]
 
 [params]
 

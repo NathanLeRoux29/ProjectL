@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b3omrytjxokma"
-path="res://.godot/imported/B_witch_charge.png-052bffc5c8c484f0bc52f41339eb441f.ctex"
+uid="uid://lv1rovgcig4i"
+path="res://.godot/imported/cavesofgallet_tiles.png-eabc8eea639e9d3acc75ad7eaa496e89.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://scenes/player/Blue_witch/B_witch_charge.png"
-dest_files=["res://.godot/imported/B_witch_charge.png-052bffc5c8c484f0bc52f41339eb441f.ctex"]
+source_file="res://scenes/world/cavesofgallet_tiles.png"
+dest_files=["res://.godot/imported/cavesofgallet_tiles.png-eabc8eea639e9d3acc75ad7eaa496e89.ctex"]
 
 [params]
 

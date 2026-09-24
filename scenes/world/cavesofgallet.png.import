@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://d0qphv66qbq0f"
-path="res://.godot/imported/B_witch_idle.png-a6376aafdd733b1360af489e168b17c4.ctex"
+uid="uid://6r5ja5kqxvkb"
+path="res://.godot/imported/cavesofgallet.png-5e6b89b838fc8c16808154c46b41cbcc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://scenes/player/Blue_witch/B_witch_idle.png"
-dest_files=["res://.godot/imported/B_witch_idle.png-a6376aafdd733b1360af489e168b17c4.ctex"]
+source_file="res://scenes/world/cavesofgallet.png"
+dest_files=["res://.godot/imported/cavesofgallet.png-5e6b89b838fc8c16808154c46b41cbcc.ctex"]
 
 [params]
 
